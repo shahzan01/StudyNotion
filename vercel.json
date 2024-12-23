@@ -1,9 +1,6 @@
 {
     "rewrites": [
         {"source": "/(.*)", "destination": "/"}
-    ],
-    "build": {
-    "memory": 1024,
-    "timeout": 60
-  }
+    ]
+
 }
