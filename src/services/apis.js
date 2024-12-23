@@ -1,4 +1,4 @@
-const BASE_URL = "https://study-notion-api-gules.vercel.app/"
+const BASE_URL = "https://study-notion-api-gules.vercel.app"
 // const BASE_URL = process.env.REACT_APP_BASE_URL;
 
 // AUTH ENDPOINTS
